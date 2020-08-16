@@ -10,16 +10,21 @@ However, less well known Linux apps often don't have the luxury of being package
 
 ## Getting Started
 
-### Learn how to make an AppImage
+### 1. Learn how to make an AppImage
 
 Information on packaging appimages is available in the [docs](./docs/Introduction.md). 
 
-### Try out an AppImage
+### 2. Try out an AppImage
 
 The list of AppImages is constantly growing. Currently, I've packaged these apps as appimages:
 
-* Blender: get it [here](https://github.com/Songtech-0912/Prometheus-Project/releases/download/v1.0-alpha/Blender-v2.83.4-x86_64.AppImage)
+* Blender
 
-### Give feedback about AppImages
+    * Blender 2.83: get it [here](https://github.com/Songtech-0912/Prometheus-Project/releases/download/v1.0-alpha/Blender-v2.83.4-x86_64.AppImage)
+
+    * Blender 2.90 (beta): get it [here](https://github.com/Songtech-0912/Prometheus-Project/releases/download/v1.0-alpha/Blender-v2.90.0-x86_64.AppImage)
+
+
+### 3. Give feedback about AppImages
 
 Any feedback about how well the AppImages here perform would be greatly appreciated. 
