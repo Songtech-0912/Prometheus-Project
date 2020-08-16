@@ -28,3 +28,9 @@ The list of AppImages is constantly growing. Currently, I've packaged these apps
 ### 3. Give feedback about AppImages
 
 Any feedback about how well the AppImages here perform would be greatly appreciated. 
+
+## Thanks
+
+* Developers of [AppImage](https://appimage.org/)
+
+* Developers of [Blender](https://www.blender.org/) 
