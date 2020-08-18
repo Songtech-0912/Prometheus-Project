@@ -32,6 +32,8 @@ Any feedback about how well the AppImages here perform would be greatly apprecia
 
 ## Thanks
 
+This project couldn't have been possible without the hard work of these amazing people. Please consider donating to them to support their projects.
+
 * Developers of [AppImage](https://appimage.org/)
 
 * Developers of [Blender](https://www.blender.org/) 
