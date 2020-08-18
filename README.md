@@ -20,11 +20,11 @@ The list of AppImages is constantly growing. Currently, I've packaged these apps
 
 * Blender
 
-    * Blender 2.83: get it [here](https://github.com/Songtech-0912/Prometheus-Project/releases/download/v1.0-alpha/Blender-v2.83.4-x86_64.AppImage)
+    * Blender 2.83: get it [here](https://github.com/Songtech-0912/Prometheus-Project/releases/tag/v1.0-beta)
 
-    * Blender 2.90 (beta): get it [here](https://github.com/Songtech-0912/Prometheus-Project/releases/download/v1.0-alpha/Blender-v2.90.0-x86_64.AppImage)
+    * Blender 2.90 (beta): get it [here](https://github.com/Songtech-0912/Prometheus-Project/releases/tag/v1.0-beta)
 
-* Instant Meshes: get it [here](https://github.com/Songtech-0912/Prometheus-Project/releases/download/v1.0-alpha/Instant_Meshes-x86_64.AppImage)
+* Instant Meshes: get it [here](https://github.com/Songtech-0912/Prometheus-Project/releases/tag/v1.0-beta.2)
 
 ### 3. Give feedback about AppImages
 
