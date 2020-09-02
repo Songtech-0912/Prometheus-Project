@@ -26,9 +26,11 @@ The list of AppImages is constantly growing. Currently, I've packaged these apps
 
 * Instant Meshes: get it [here](https://github.com/Songtech-0912/Prometheus-Project/releases/tag/v1.0-beta.2)
 
+Alternatively, you may also download these appimages on [AppImageHub](#). For the links to each AppImage hosted on AppImageHub, see [publish-list.md](#).
+
 ### 3. Give feedback about AppImages
 
-Any feedback about how well the AppImages here perform would be greatly appreciated. You can open an [issue](https://github.com/Songtech-0912/Prometheus-Project/issues) or take [this survey](#)  to give feedback.
+Any feedback about how well the AppImages here perform would be greatly appreciated. You can open an [issue](https://github.com/Songtech-0912/Prometheus-Project/issues) or take [this survey](https://yuxuansong419407.typeform.com/to/f09PivNq)  to give feedback.
 
 ## Thanks
 
