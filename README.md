@@ -28,7 +28,7 @@ The list of AppImages is constantly growing. Currently, I've packaged these apps
 
 ### 3. Give feedback about AppImages
 
-Any feedback about how well the AppImages here perform would be greatly appreciated. 
+Any feedback about how well the AppImages here perform would be greatly appreciated. You can open an [issue](https://github.com/Songtech-0912/Prometheus-Project/issues) or take [this survey](#)  to give feedback.
 
 ## Thanks
 
