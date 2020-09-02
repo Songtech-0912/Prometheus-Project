@@ -30,7 +30,7 @@ Alternatively, you may also download these appimages on [AppImageHub](#). For th
 
 ### 3. Give feedback about AppImages
 
-Any feedback about how well the AppImages here perform would be greatly appreciated. You can open an [issue](https://github.com/Songtech-0912/Prometheus-Project/issues) or take [this survey](#)  to give feedback.
+Any feedback about how well the AppImages here perform would be greatly appreciated. You can open an [issue](https://github.com/Songtech-0912/Prometheus-Project/issues) or take [this survey](https://yuxuansong419407.typeform.com/to/f09PivNq)  to give feedback.
 
 ## Thanks
 
