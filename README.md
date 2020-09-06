@@ -41,3 +41,5 @@ This project couldn't have been possible without the hard work of these amazing 
 * Developers of [Blender](https://www.blender.org/) 
 
 * Developers of [Instant Meshes](https://github.com/wjakob/instant-meshes)
+
+* Developers of [Ardour](https://ardour.org)
