@@ -32,6 +32,16 @@ Alternatively, you may also download these appimages on [AppImageHub](https://ww
 
 Any feedback about how well the AppImages here perform would be greatly appreciated. You can open an [issue](https://github.com/Songtech-0912/Prometheus-Project/issues) or take [this survey](https://yuxuansong419407.typeform.com/to/f09PivNq)  to give feedback.
 
+## Roadmap
+
+I will continue making the Prometheus Project better, and that means I'm working on these things at the moment:
+
+- A proper website for downloading the AppImages, giving feedback, etc.
+- A script that will mirror these appimages to AppImageHub
+- Proper docs for the Prometheus Project, with detailed instructions on how to build AppImages, troubleshooting AppImage errors, etc.
+- Adding backward compatibility for AppImages
+- A true 1.0 stable release instead of countless pre-releases
+
 ## Thanks
 
 This project couldn't have been possible without the hard work of these amazing people. Please consider donating to them to support their projects.
